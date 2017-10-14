@@ -19,7 +19,7 @@ Bootstrap and css style was used in conjunction and linked to html.
 ##### WIREFRAME
 | Page View                                       |
 |-------------------------------------------------|
-| ![deadpool_view](http://gph.to/25q2v0d)        |
+| ![splash_view](http://bit.ly/2yktO1a)           |
 |                                                 |
 
 ----
